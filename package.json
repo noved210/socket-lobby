@@ -1,0 +1,31 @@
+{
+  "name": "socket-lobby",
+  "version": "1.0.0",
+  "description": "generic lobby hosting solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noved210/socket-lobby.git"
+  },
+  "keywords": [
+    "socket",
+    "sockets",
+    "lobby",
+    "hosting",
+    "connection",
+    "connecting"
+  ],
+  "author": "Devon R, Adrian M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noved210/socket-lobby/issues"
+  },
+  "homepage": "https://github.com/noved210/socket-lobby#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
